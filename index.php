@@ -8,5 +8,11 @@
 </head>
 <body>
     <h1>GIT REMOTE 5</h1>
+
+    <ul>
+        <li>Daffa</li>
+        <li>Alfariza</li>
+        <li>Rahman</li>
+    </ul>
 </body>
 </html>
