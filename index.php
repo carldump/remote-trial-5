@@ -10,9 +10,12 @@
     <h1>GIT REMOTE 5</h1>
 
     <ul>
-        <li>Daffa</li>
-        <li>Alfariza</li>
-        <li>Rahman</li>
+        <li>John</li>
+        <li>Cywalk</li>
+        <li>Maroon</li>
     </ul>
+
+
+    <h3>Nama Saya telah diubah</h3>
 </body>
 </html>
